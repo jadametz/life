@@ -13,4 +13,5 @@
 - 03/01/2011-13/09/2013 First and probably last time working on the Microsoft stack @ [Experian Automotive](http://www.experian.com/automotive/auto-data.html)
 - 09/01/2012-01/04/2013 Valencia College, AS in Computer Programming & Analysis
 - 19/09/2013-22/09/2013 Moved to California (drove from FL)
-- 30/09/2013-~ Data Engineering @ [Graphiq](https://www.graphiq.com)
+- 30/09/2013-05/08/2016 Data Engineering @ [Graphiq](https://www.graphiq.com)
+- 08/08/2016-~ Operating the Cloud @ [Invoca](http://www.invoca.com)
