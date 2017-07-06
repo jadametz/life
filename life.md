@@ -15,3 +15,4 @@
 - 19/09/2013-22/09/2013 Moved to California (drove from FL)
 - 30/09/2013-05/08/2016 Data Engineering @ [Graphiq](https://www.graphiq.com)
 - 08/08/2016-~ Operating the Cloud @ [Invoca](http://www.invoca.com)
+- 30/05/2017 Engaged to be married
